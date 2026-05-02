@@ -13,3 +13,7 @@ add_action('wp_footer', function() {
 </div>
 #gespa-fab { animation: pulse 2s infinite; }
 @keyframes pulse { ... }
+
+#gespa-chat { border-radius, shadow, transition }
+.header { gradient }
+.msg { bot/user styles }
