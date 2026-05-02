@@ -33,3 +33,4 @@ function responder(index, btn)
 <a href="https://calendar.app.google/...">
 
 function toggleChat()
+btn.classList.add("active");
