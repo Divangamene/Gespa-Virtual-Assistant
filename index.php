@@ -21,3 +21,6 @@ const data = [
   { q: "...", a: "..." }
 ];
 
+function startChat() {
+    addBot(...)
+}
