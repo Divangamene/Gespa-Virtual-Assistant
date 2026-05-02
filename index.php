@@ -27,3 +27,5 @@ function startChat() {
 
 function addBot()
 function addUser()
+
+function responder(index, btn)
