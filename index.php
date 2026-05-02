@@ -17,3 +17,7 @@ add_action('wp_footer', function() {
 #gespa-chat { border-radius, shadow, transition }
 .header { gradient }
 .msg { bot/user styles }
+const data = [
+  { q: "...", a: "..." }
+];
+
