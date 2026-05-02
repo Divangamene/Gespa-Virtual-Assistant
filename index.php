@@ -6,3 +6,8 @@ add_action('wp_footer', function() {
     <div id="gespa-fab" onclick="toggleChat()">
     <img src="...">
 </div>
+
+<div id="gespa-chat">
+    <div class="header">...</div>
+    <div id="chat-body"></div>
+</div>
