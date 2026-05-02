@@ -24,3 +24,6 @@ const data = [
 function startChat() {
     addBot(...)
 }
+
+function addBot()
+function addUser()
