@@ -11,3 +11,5 @@ add_action('wp_footer', function() {
     <div class="header">...</div>
     <div id="chat-body"></div>
 </div>
+#gespa-fab { animation: pulse 2s infinite; }
+@keyframes pulse { ... }
